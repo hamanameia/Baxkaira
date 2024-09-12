@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baxkairas", "Baxkairas\Baxkairas.csproj", "{806EE478-BB58-4AD7-84C1-C60C3F045AB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadroBranco", "QuadroBranco\QuadroBranco.csproj", "{D3E2F72B-20F0-4810-9B1A-5407B3168CB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{806EE478-BB58-4AD7-84C1-C60C3F045AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806EE478-BB58-4AD7-84C1-C60C3F045AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806EE478-BB58-4AD7-84C1-C60C3F045AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806EE478-BB58-4AD7-84C1-C60C3F045AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E2F72B-20F0-4810-9B1A-5407B3168CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E2F72B-20F0-4810-9B1A-5407B3168CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E2F72B-20F0-4810-9B1A-5407B3168CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E2F72B-20F0-4810-9B1A-5407B3168CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF97E852-3F84-4645-B104-A484A0734610}
+	EndGlobalSection
+EndGlobal

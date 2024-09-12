@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\Desktop\joaozinho\Baxkairas\Baxkairas\bin\Debug\net8.0\Baxkairas.deps.json
+C:\Users\SENAI3EM\Desktop\joaozinho\Baxkairas\Baxkairas\bin\Debug\net8.0\Baxkairas.dll
+C:\Users\SENAI3EM\Desktop\joaozinho\Baxkairas\Baxkairas\bin\Debug\net8.0\Baxkairas.pdb
+C:\Users\SENAI3EM\Desktop\joaozinho\Baxkairas\Baxkairas\obj\Debug\net8.0\Baxkairas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Desktop\joaozinho\Baxkairas\Baxkairas\obj\Debug\net8.0\Baxkairas.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Desktop\joaozinho\Baxkairas\Baxkairas\obj\Debug\net8.0\Baxkairas.AssemblyInfo.cs
+C:\Users\SENAI3EM\Desktop\joaozinho\Baxkairas\Baxkairas\obj\Debug\net8.0\Baxkairas.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Desktop\joaozinho\Baxkairas\Baxkairas\obj\Debug\net8.0\Baxkairas.dll
+C:\Users\SENAI3EM\Desktop\joaozinho\Baxkairas\Baxkairas\obj\Debug\net8.0\refint\Baxkairas.dll
+C:\Users\SENAI3EM\Desktop\joaozinho\Baxkairas\Baxkairas\obj\Debug\net8.0\Baxkairas.pdb
+C:\Users\SENAI3EM\Desktop\joaozinho\Baxkairas\Baxkairas\obj\Debug\net8.0\ref\Baxkairas.dll
